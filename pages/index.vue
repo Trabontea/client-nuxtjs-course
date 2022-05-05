@@ -1,6 +1,5 @@
 <template>
   <div>
-    <Nav />
     <!-- cardsSection is props send the data to the child component -->
     <div class="container">
       <Hero />
